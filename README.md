@@ -28,7 +28,7 @@ We all visit many sites and we all have seen those buttons with cool hover effec
 - Button:
 
   ```
-  Hover over the button. Make to put your own link in the <a href=""> tag.
+  Hover over the button. Make sure to put your own link in the <a href=""> tag.
   ```
 
 <br>
